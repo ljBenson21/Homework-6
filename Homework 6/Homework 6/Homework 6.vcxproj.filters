@@ -39,6 +39,12 @@
     <ClInclude Include="..\..\..\..\..\Downloads\banking\PR5_Banking\PR4_Banking\readint.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="..\..\..\..\..\Downloads\banking\PR5_Banking\PR4_Banking\SavingAcct.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\Downloads\banking\PR5_Banking\PR4_Banking\CheckingAccount.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\..\..\..\..\Downloads\banking\PR5_Banking\PR4_Banking\readint.cpp">
